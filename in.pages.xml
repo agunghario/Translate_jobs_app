@@ -21,7 +21,7 @@
   <pages>
     <page key="Frontend">
       <string key="City is not set">
-        <tr lang="en"> City is not set </tr>
+        <tr lang="en"> Kota tidak di set </tr>
       </string>
       <string key="ZIP code is not set">
         <tr lang="en"> ZIP code is not set </tr>
